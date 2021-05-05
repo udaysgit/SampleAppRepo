@@ -20,6 +20,8 @@ public class SampleTest {
     @Test
     public void test4() {
     }
-	
+    @Test
+    public void test5() {
+    }
 
 }
